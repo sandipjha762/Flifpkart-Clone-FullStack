@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.topItems{
+    margin: 56px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px 8px;
+}
+.topItem{
+    text-align: center;
+    cursor: pointer;
+}
+
+.topItem img{
+    height: 64px;
+    width: 64px;
+}

@@ -1,0 +1,4 @@
+1. Header Created
+2. Top Items List Created
+3. SlideBar (I used Carousel)[npm i react-material-ui-carousel]
+4. Routing [npm i react-router-dom]
